@@ -1,6 +1,7 @@
-#Portofio
+# Portofio
 
-# Cheatseet 
+# Cheatseet
+ 
 ## Project setup
 ```
 yarn install
